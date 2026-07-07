@@ -1,0 +1,6 @@
+aiogram
+telethon
+asyncpg
+python-dotenv
+google-genai
+tzdata

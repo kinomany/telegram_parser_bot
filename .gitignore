@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets / config
+.env
+*.env
+config_local.py
+secrets.py
+
+# Telegram / Telethon sessions
+*.session
+*.session-journal
+
+# Logs / reports
+logs/
+run_reports/
+*.log
+
+# Database / dumps
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.backup
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
